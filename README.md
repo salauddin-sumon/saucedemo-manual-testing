@@ -43,8 +43,8 @@ One potential UI issue was documented for further investigation.
 
 | Document | Description |
 |---|---|
-| [Test Plan](Test-Plan/Test-Plan.md) | Testing objectives, scope, approach, and environment |
-| [Test Scenarios](Test-Scenarios/SauceDemo-Test-Scenarios.xlsx) | High-level scenarios covering application features |
+| [Test Plan](Test-plan/Test-Plan.md) | Testing objectives, scope, approach, and environment |
+| [Test Scenarios](Test-Scenarios/Test-Scenarios.xlsx) | High-level scenarios covering application features |
 | [Test Cases](Test-Cases/SauceDemo-Test-Cases-Simple.xlsx) | Detailed test cases with steps and expected results |
 | [Test Execution Report](Test-Execution/SauceDemo-Test-Execution-Report.xlsx) | Execution results and observations |
 | [Bug Report](Bug-Reports/BUG-001-login-error-clipped.md) | Documentation of the potential UI issue |
