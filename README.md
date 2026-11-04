@@ -48,7 +48,7 @@ One potential UI issue was documented for further investigation.
 | [Test Cases](Test-Cases/SauceDemo-Test-Cases-Simple.xlsx) | Detailed test cases with steps and expected results |
 | [Test Execution Report](Test-Execution/SauceDemo-Test-Execution-Report.xlsx) | Execution results and observations |
 | [Bug Report](Bug-Reports/BUG-001-login-error-clipped.md) | Documentation of the potential UI issue |
-| [Screenshot Evidence](Screenshot/BUG-001-login-error-clipped.png) | Screenshot supporting the bug report |
+| [Screenshot Evidence](Screenshot/BUG_001_login_error_clipped.png) | Screenshot supporting the bug report |
 | [Test Summary Report](Test-Summary/Test-Summary-Report.md) | Overall testing results and conclusion |
 
 ## Defect Identified
